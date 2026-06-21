@@ -50,8 +50,8 @@ DataWipe-final_app/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd DataWipe-final_app
+git clone https://github.com/SARTHAKSHEWALE05/DataWipe.git
+cd DataWipe
 ```
 
 Create a virtual environment:
